@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm HariHaran. I am a Full Stack Developer from Coimbatore, Tamil Nadu. I occasionally write blogs at
+
+- :pencil2: https://haricodes.com/
+- 🔭 I’m currently working on Angular / Microsoft Azure & .NET
+- 📫 How to reach me : [Twitter](https://twitter.com/get_hariharan)
+- I also write answers on [StackoverFlow](https://stackoverflow.com/users/8368871/hariharan)
+
