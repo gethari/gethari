@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm HariHaran. I am a Full Stack Developer from Coimbatore, Tamil Nadu. I occasionally write blogs at
+I'm HariHaran. I am a Senior Software Engineer from Coimbatore, Tamil Nadu. I occasionally write blogs at
 
 - :pencil2: https://haricodes.com/
 - 🔭 I’m currently working on Angular / Microsoft Azure & .NET
