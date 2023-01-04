@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 I'm HariHaran. I am a Senior Software Engineer from Coimbatore, Tamil Nadu. I occasionally write blogs at
 
 - :pencil2: https://haricodes.com/
-- I'm spending most of time on `ProseMirror` on building a rich WYSIWYG editor
-- 🔭 I’m currently working on Angular / Microsoft Azure & .NET
+- 🔭 I’m currently working on Angular / Microsoft Azure & .NET / `ProseMirror
 - 📫 How to reach me : [Twitter](https://twitter.com/get_hariharan)
 - I also write answers on [StackoverFlow](https://stackoverflow.com/users/8368871/hariharan)
 
